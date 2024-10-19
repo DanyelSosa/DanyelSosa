@@ -17,6 +17,7 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&text=Design%20is%20not%20just%20what%20it%20looks%20like%20and%20feels%20like.%20Design%20is%20how%20it%20works.&author=Ethan%20Marcotte)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=DanyelSosa&icon=0&color=0)](https://visitcount.itsvg.in)
